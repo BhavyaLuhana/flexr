@@ -32,6 +32,12 @@ body {
   background-color: var(--background);
 }
 
+.listitems {
+  background-color: rgb(233, 224, 228);
+  padding: 10px;
+  border-radius: 50px;
+}
+
 .price-ing {
   background-color: var(--card);
   padding: 40px;
